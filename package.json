@@ -8,6 +8,7 @@
     "url": "https://github.com/eduardoboucas/include-media.git"
   },
   "main": "index.js",
+  "style": "dist/_include-media.scss"
   "author": {
     "name": "Eduardo Boucas",
     "email": "mail@eduardoboucas.com"
